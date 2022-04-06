@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  mariadb:
+    image: mariadb
+    environment:
+      - MYSQL_ROOT_PASSWORD=pass
+      - MYSQL_USER=chamilo
+      - MYSQL_PASSWORD=chamilo
+      - MYSQL_DATABASE=chamilo
+  chamilo:
+    image: chocological/chamilo-lms-1.11.x
+    links:
+      - mariadb
+    ports:
+      - "80:80"
