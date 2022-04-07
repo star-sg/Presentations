@@ -2,7 +2,7 @@
 
 ## 2022
 
-[NUS GreyHats Security Wednesday Apr 2022 - A case study of an incorrect bitwise and optimization in V8 : 6 April 2022]()
+[NUS GreyHats Security Wednesday Apr 2022 - A case study of an incorrect bitwise and optimization in V8 : 6 April 2022](https://github.com/star-sg/Presentations/blob/main/NUS%20GreyHats%20SecWed%20Apr%202021/A%20case%20study%20of%20an%20incorrect%20bitwise%20and%20optimization%20in%20V8/CVE-2021-30599_official.pptx)
 
 [NUS GreyHats Security Wednesday Apr 2022 - An Introduction to Manual Source Code Review : 6 April 2022](https://github.com/star-sg/Presentations/blob/main/NUS%20GreyHats%20SecWed%20Apr%202021/Introduction%20to%20Manual%20Source%20Code%20Review/Introduction%20to%20Manual%20Source%20Code%20Review.pdf)
 
