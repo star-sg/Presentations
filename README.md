@@ -3,7 +3,7 @@
 ## 2022
 
 ### Zer0Con 2022 - 21st to 22nd April 2022
-**COMING SOON** A journey of hunting macOS kernel vulnerability by [Peter NGUYỄN Vũ Hoàng](https://github.com/peternguyen93)
+[A journey of hunting macOS kernel vulnerability](https://github.com/star-sg/Presentations/blob/main/Zer0Con%202022/A%20Journey%20Of%20Hunting%20macOS%20kernel.pptx) by [Peter NGUYỄN Vũ Hoàng](https://github.com/peternguyen93)
 
 
 ### NUS GreyHats Security Wednesday - 6th Apr 2022
