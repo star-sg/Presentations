@@ -2,6 +2,11 @@
 
 ## 2022
 
+### POC 2022
+[How to Backup and Pwn using Time Machine](https://github.com/star-sg/Presentations/blob/main/POC%202022/Nguyen%20Hoang%20Thach.pdf) by [Nguyễn Hoàng Thạch](https://twitter.com/hi_im_d4rkn3ss)
+[The Journey To Hybrid Apple Driver Fuzzing](https://github.com/star-sg/Presentations/blob/main/POC%202022/Zhenpeng%20Pan.pdf) by [Pan Zhenpeng](https://twitter.com/Peterpan980927)
+
+
 ### Zer0Con 2022 - 21st to 22nd April 2022
 [A journey of hunting macOS kernel vulnerability](https://github.com/star-sg/Presentations/blob/main/Zer0Con%202022/A%20Journey%20Of%20Hunting%20macOS%20kernel.pptx) by [Peter NGUYỄN Vũ Hoàng](https://github.com/peternguyen93)
 
