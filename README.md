@@ -8,6 +8,10 @@
 [The Journey To Hybrid Apple Driver Fuzzing](https://github.com/star-sg/Presentations/blob/main/POC%202022/Zhenpeng%20Pan.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927)
 
 
+Defcon 30 - 11th to 14th August 2022
+[All Roads leads to GKE’s Host : 4+ Ways to Escape](https://github.com/star-sg/Presentations/blob/main/Defcon%2030/Billy%20Jheng%20%20%20Muhammad%20Alifa%20Ramdhan%20-%20All%20Roads%20leads%20to%20GKEs%20Host%20%204%2B%20Ways%20to%20Escape.pdf) by [Billy JHENG Bing-Jhong](https://github.com/st424204) & [Muhammad Ramdhan](https://github.com/d4em0n) 
+
+
 ### Zer0Con 2022 - 21st to 22nd April 2022
 [A journey of hunting macOS kernel vulnerability](https://github.com/star-sg/Presentations/blob/main/Zer0Con%202022/A%20Journey%20Of%20Hunting%20macOS%20kernel.pptx) by [Peter NGUYỄN Vũ Hoàng](https://github.com/peternguyen93)
 
