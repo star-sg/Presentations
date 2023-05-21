@@ -1,5 +1,10 @@
 # Presentations
 
+## 2023
+
+### Offensivecon 2023 - 19th to 20th May 2023
+[Unearthing Vulnerabilities in the Apple Ecosystem The Art of KidFuzzerV2.0](https://github.com/star-sg/Presentations/blob/main/Offensivecon%202023/Unearthing%20Vulnerabilities%20in%20the%20Apple%20Ecosystem%20The%20Art%20of%20KidFuzzerV2.0.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927)
+
 ## 2022
 
 ### POC 2022 - 10th to 11th November 2022
