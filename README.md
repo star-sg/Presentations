@@ -2,6 +2,11 @@
 
 ## 2023
 
+### HITCON CMT 2023 - 18th to 19th August 2023
+[Ghosts of the Past: Classic PHP RCE Bugs in Trend Micro Enterprise Offerings](https://github.com/star-sg/Presentations/blob/main/HITCON%202023/Ghosts%20of%20the%20Past%20-%20Classic%20PHP%20RCE%20Bugs%20in%20Trend%20Micro%20Enterprise%20Offerings.pdf) by [POH Jia Hao](https://github.com/limerencee)
+
+[What You See IS NOT What You Get: Pwning Electron-based Markdown Note-taking Apps](https://github.com/star-sg/Presentations/blob/main/HITCON%202023/Pwning%20Electron-based%20Markdown%20Note-taking%20Apps.pdf) by [LI Jiantao](https://github.com/chromium1337)
+
 ### Offensivecon 2023 - 19th to 20th May 2023
 [Unearthing Vulnerabilities in the Apple Ecosystem The Art of KidFuzzerV2.0](https://github.com/star-sg/Presentations/blob/main/Offensivecon%202023/Unearthing%20Vulnerabilities%20in%20the%20Apple%20Ecosystem%20The%20Art%20of%20KidFuzzerV2.0.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927)
 
