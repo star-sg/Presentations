@@ -2,6 +2,9 @@
 
 ## 2023
 
+### Hexacon 2023 - 13th to 14th October 2023
+[A Year Fuzzing XNU Mach IPC](https://github.com/star-sg/Presentations/blob/main/Hexacon%202023/A%20Year%20Fuzzing%20XNU%20Mach%20IPC.pptx) by by [Peter NGUYỄN Vũ Hoàng](https://github.com/peternguyen93)
+
 ### HITCON CMT 2023 - 18th to 19th August 2023
 [Ghosts of the Past: Classic PHP RCE Bugs in Trend Micro Enterprise Offerings](https://github.com/star-sg/Presentations/blob/main/HITCON%202023/Ghosts%20of%20the%20Past%20-%20Classic%20PHP%20RCE%20Bugs%20in%20Trend%20Micro%20Enterprise%20Offerings.pdf) by [POH Jia Hao](https://github.com/limerencee)
 
