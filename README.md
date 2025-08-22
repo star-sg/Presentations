@@ -5,7 +5,7 @@
 
 [Cracking the Pixel 8: Exploiting the Undocumented DSP to Bypass MTE](https://github.com/star-sg/Presentations/blob/main/HITCON%202025/Cracking%20the%20Pixel%208_%20Exploiting%20the%20Undocumented%20DSP%20to%20Bypass%20MTE.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
 
-##2024
+## 2024
 
 [VMware Workstation: Escaping via a New Route - Virtual Bluetooth](https://github.com/star-sg/Presentations/blob/main/POC%202024/Nguyen%20Hoang%20Thach%2C%20VMware%20Workstation%20-%20Escaping%20via%20a%20New%20Route%20-%20Virtual%20Bluetooth.pdf) by [NGUYỄN Hoàng Thạch](https://twitter.com/hi_im_d4rkn3ss)
 
