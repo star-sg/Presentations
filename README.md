@@ -3,6 +3,11 @@
 
 ## 2025
 
+### CodeBlue 2025 - 18th to 19th November 2025
+[AI Accelerated Exploiting: Compromising MTE Enabled Pixel from DSP Coprocessor](https://github.com/star-sg/Presentations/blob/main/CodeBlue%202025/AI%20Accelerated%20Exploiting_%20Compromising%20MTE%20Enabled%20Pixel%20from%20DSP%20Coprocessor.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
+
+[Dancing with Exynos Coprocessor: Pwning Samsung for fun and “profit”](https://github.com/star-sg/Presentations/blob/main/CodeBlue%202025/Dancing%20with%20Exynos%20Coprocessor_%20Pwning%20Samsung%20for%20fun%20and%20profit.pdf) by [Muhammad Ramdhan](https://github.com/d4em0n), [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
+
 ### HITCON 2025 - 15th to 16th August 2025
 [Cracking the Pixel 8: Exploiting the Undocumented DSP to Bypass MTE](https://github.com/star-sg/Presentations/blob/main/HITCON%202025/Cracking%20the%20Pixel%208_%20Exploiting%20the%20Undocumented%20DSP%20to%20Bypass%20MTE.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
 
