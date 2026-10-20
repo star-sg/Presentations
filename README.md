@@ -1,20 +1,22 @@
 # Presentations
 
+## 2026
+[Pwn2OwNothing: When a KVM Full-Chain Escapes to Emptiness](https://github.com/star-sg/Presentations/blob/main/HITCON%202026/Pwn2OwNothing_%20When%20a%20KVM%20Full-Chain%20Escapes%20to%20Emptiness.pdf) by [PAN Zhenpeng](https://x.com/Peterpan980927), [Billy JHENG Bing Jhong](https://x.com/st424204), [Bruce Chen](https://x.com/bruce30262)) & [SHI Weiming](https://x.com/bestswngs)
 
 ## 2025
 
 ### CodeBlue 2025 - 18th to 19th November 2025
-[AI Accelerated Exploiting: Compromising MTE Enabled Pixel from DSP Coprocessor](https://github.com/star-sg/Presentations/blob/main/CodeBlue%202025/AI%20Accelerated%20Exploiting_%20Compromising%20MTE%20Enabled%20Pixel%20from%20DSP%20Coprocessor.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
+[AI Accelerated Exploiting: Compromising MTE Enabled Pixel from DSP Coprocessor](https://github.com/star-sg/Presentations/blob/main/CodeBlue%202025/AI%20Accelerated%20Exploiting_%20Compromising%20MTE%20Enabled%20Pixel%20from%20DSP%20Coprocessor.pdf) by [PAN Zhenpeng](https://x.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
 
-[Dancing with Exynos Coprocessor: Pwning Samsung for fun and “profit”](https://github.com/star-sg/Presentations/blob/main/CodeBlue%202025/Dancing%20with%20Exynos%20Coprocessor_%20Pwning%20Samsung%20for%20fun%20and%20profit.pdf) by [Muhammad Ramdhan](https://github.com/d4em0n), [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
+[Dancing with Exynos Coprocessor: Pwning Samsung for fun and “profit”](https://github.com/star-sg/Presentations/blob/main/CodeBlue%202025/Dancing%20with%20Exynos%20Coprocessor_%20Pwning%20Samsung%20for%20fun%20and%20profit.pdf) by [Muhammad Ramdhan](https://github.com/d4em0n), [PAN Zhenpeng](https://x.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://x.com/st424204)
 
 ### HITCON 2025 - 15th to 16th August 2025
-[Cracking the Pixel 8: Exploiting the Undocumented DSP to Bypass MTE](https://github.com/star-sg/Presentations/blob/main/HITCON%202025/Cracking%20the%20Pixel%208_%20Exploiting%20the%20Undocumented%20DSP%20to%20Bypass%20MTE.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
+[Cracking the Pixel 8: Exploiting the Undocumented DSP to Bypass MTE](https://github.com/star-sg/Presentations/blob/main/HITCON%202025/Cracking%20the%20Pixel%208_%20Exploiting%20the%20Undocumented%20DSP%20to%20Bypass%20MTE.pdf) by [PAN Zhenpeng](https://x.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://x.com/st424204)
 
 ## 2024
 
 ### POC 2024 - 07th to 08th November 2024
-[VMware Workstation: Escaping via a New Route - Virtual Bluetooth](https://github.com/star-sg/Presentations/blob/main/POC%202024/Nguyen%20Hoang%20Thach%2C%20VMware%20Workstation%20-%20Escaping%20via%20a%20New%20Route%20-%20Virtual%20Bluetooth.pdf) by [NGUYỄN Hoàng Thạch](https://twitter.com/hi_im_d4rkn3ss)
+[VMware Workstation: Escaping via a New Route - Virtual Bluetooth](https://github.com/star-sg/Presentations/blob/main/POC%202024/Nguyen%20Hoang%20Thach%2C%20VMware%20Workstation%20-%20Escaping%20via%20a%20New%20Route%20-%20Virtual%20Bluetooth.pdf) by [NGUYỄN Hoàng Thạch](https://x.com/hi_im_d4rkn3ss)
 
 [GPUAF : Two ways of rooting All Qualcomm based Android phones](https://github.com/star-sg/Presentations/blob/main/POC%202024/Pan%20Zhenpeng%20%26%20Jheng%20Bing%20Jhong%2C%20GPUAF%20-%20Two%20ways%20of%20rooting%20All%20Qualcomm%20based%20Android%20phones.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927) & [Billy JHENG Bing Jhong](https://github.com/st424204)
 
@@ -29,14 +31,14 @@
 [What You See IS NOT What You Get: Pwning Electron-based Markdown Note-taking Apps](https://github.com/star-sg/Presentations/blob/main/HITCON%202023/Pwning%20Electron-based%20Markdown%20Note-taking%20Apps.pdf) by [LI Jiantao](https://github.com/chromium1337)
 
 ### Offensivecon 2023 - 19th to 20th May 2023
-[Unearthing Vulnerabilities in the Apple Ecosystem The Art of KidFuzzerV2.0](https://github.com/star-sg/Presentations/blob/main/Offensivecon%202023/Unearthing%20Vulnerabilities%20in%20the%20Apple%20Ecosystem%20The%20Art%20of%20KidFuzzerV2.0.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927)
+[Unearthing Vulnerabilities in the Apple Ecosystem The Art of KidFuzzerV2.0](https://github.com/star-sg/Presentations/blob/main/Offensivecon%202023/Unearthing%20Vulnerabilities%20in%20the%20Apple%20Ecosystem%20The%20Art%20of%20KidFuzzerV2.0.pdf) by [PAN Zhenpeng](https://x.com/Peterpan980927)
 
 ## 2022
 
 ### POC 2022 - 10th to 11th November 2022
-[How to Backup and Pwn using Time Machine](https://github.com/star-sg/Presentations/blob/main/POC%202022/Nguyen%20Hoang%20Thach.pdf) by [NGUYỄN Hoàng Thạch](https://twitter.com/hi_im_d4rkn3ss)
+[How to Backup and Pwn using Time Machine](https://github.com/star-sg/Presentations/blob/main/POC%202022/Nguyen%20Hoang%20Thach.pdf) by [NGUYỄN Hoàng Thạch](https://x.com/hi_im_d4rkn3ss)
 
-[The Journey To Hybrid Apple Driver Fuzzing](https://github.com/star-sg/Presentations/blob/main/POC%202022/Zhenpeng%20Pan.pdf) by [PAN Zhenpeng](https://twitter.com/Peterpan980927)
+[The Journey To Hybrid Apple Driver Fuzzing](https://github.com/star-sg/Presentations/blob/main/POC%202022/Zhenpeng%20Pan.pdf) by [PAN Zhenpeng](https://x.com/Peterpan980927)
 
 
 ### Defcon 30 - 11th to 14th August 2022
