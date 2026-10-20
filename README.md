@@ -3,7 +3,7 @@
 ## 2026
 
 ### HITCON 2026 - 21st - 22nd August 2026
-[Pwn2OwNothing: When a KVM Full-Chain Escapes to Emptiness](https://github.com/star-sg/Presentations/blob/main/HITCON%202026/Pwn2OwNothing_%20When%20a%20KVM%20Full-Chain%20Escapes%20to%20Emptiness.pdf) by [PAN Zhenpeng](https://x.com/Peterpan980927), [Billy JHENG Bing Jhong](https://x.com/st424204), [Bruce Chen](https://x.com/bruce30262)) & [SHI Weiming](https://x.com/bestswngs)
+[Pwn2OwNothing: When a KVM Full-Chain Escapes to Emptiness](https://github.com/star-sg/Presentations/blob/main/HITCON%202026/Pwn2OwNothing_%20When%20a%20KVM%20Full-Chain%20Escapes%20to%20Emptiness.pdf) by [PAN Zhenpeng](https://x.com/Peterpan980927), [Billy JHENG Bing Jhong](https://x.com/st424204), [Bruce Chen](https://x.com/bruce30262) & [SHI Weiming](https://x.com/bestswngs)
 
 ## 2025
 
